@@ -5,7 +5,9 @@ import Note from "./Components/Note"
 import Data from "./Components/NotesData"
 
 
+
 function App() {
+
   return (
     <div >
       <Header />
