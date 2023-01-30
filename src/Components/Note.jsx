@@ -1,3 +1,4 @@
+import DeleteOutlineOutlinedIcon from '@mui/icons-material/DeleteOutlineOutlined';
 
 function Note(props){
    function handleClick(){
@@ -7,7 +8,7 @@ function Note(props){
  return <div className="note">
     <h1>{props.heading}</h1>
     <p>{props.body}</p>
-    <button onClick={handleClick}>DELETE</button>
+    <button onClick={handleClick}><DeleteOutlineOutlinedIcon/></button>
  </div>
 }
 
