@@ -10,7 +10,7 @@ A simple note taking application built with React.js
 - Node.js
 - npm
 <p align="center">
-<img src="./public/Screenshot1.png" height="360" width="400" alt="screenshot1"/>
+<img src="./public/Screenshot1.png" height="360" width="500" alt="screenshot1"/>
   </p>
 
 ## How to use
