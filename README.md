@@ -9,8 +9,9 @@ A simple note taking application built with React.js
 ## Requirements
 - Node.js
 - npm
-
-<img src="./public/Screenshot1.png" width="400" alt="screenshot1"/>
+<p align="center">
+<img src="./public/Screenshot1.png" height="360" width="400" alt="screenshot1"/>
+  </p>
 
 ## How to use
 1. Clone or download the repository.
